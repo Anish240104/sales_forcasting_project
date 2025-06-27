@@ -45,11 +45,6 @@ Open the notebook:
 jupyter notebook polished_sales_forecasting_project.ipynb
 ```
 
-## 📌 Notes
-
-- Google Sheets API requires authentication (`gspread`)
-- Replace placeholder data paths with your own
-
 ## 📄 License
 
 [MIT License](LICENSE)
