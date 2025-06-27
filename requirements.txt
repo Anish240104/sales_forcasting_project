@@ -1,0 +1,10 @@
+datetime
+google
+gspread
+gspread_dataframe
+ipywidgets
+matplotlib
+numpy
+pandas
+seaborn
+scikit-learn
